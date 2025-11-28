@@ -183,6 +183,20 @@ fastmcp/
 
 ---
 
+## ❗ Disclaimer
+
+> **Note:** DaisyUI has an official [Blueprint MCP](https://daisyui.com/blueprint/) ($600 lifetime) with premium features.
+>
+> This project is **not** that. It's a free, DIY alternative **using their publicly available documentation**.
+>
+> - ✅ No extra features
+> - ✅ No competition
+> - ✅ Just a personal tool I wanted to share!
+
+If you want even an official experience with premium features, consider supporting DaisyUI by purchasing their Blueprint MCP!
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
